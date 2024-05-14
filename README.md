@@ -179,7 +179,7 @@ line or the closing brace `}` of the loop.
 
 3. Immediately, type the method name you want, maybe something like `doFizzBuzz`.
 
-- [X] Rerun the program to verify.
+- [] Rerun the program to verify.
 
 That's your first big IntelliJ trick! There are lots more.
 
@@ -399,7 +399,7 @@ appear when you click the button to contribute.
 ### Giving someone else direct access to your GitHub repository
 
 1. Click on the Settings tab for your repository on GitHub (the right-most tab). In it, there is a Collaborators tab (top-left).
-Click on it and then you will see a button to add people to your project.
+Click on it, and then you will see a button to add people to your project.
 
 2. Add the other person to your project. They can now clone your repository directly using
 the HTTPS URL as you did during the lab.
